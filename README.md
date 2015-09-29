@@ -1,6 +1,16 @@
 Setup the Application
 ===============
 
+
+
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=azaoui&repo=salesforce-integration">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
+
+
+
 Configure your server to support SSL:
 -----------------------
 
